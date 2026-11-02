@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Simple in-memory library management REST API",
   "main": "server.js",
-  "scripts": { "start": "node server.js" },
-  "dependencies": { "express": "^4.21.2" }
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.22.3"
+  }
 }
